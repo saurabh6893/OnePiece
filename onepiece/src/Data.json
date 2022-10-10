@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Monkey D Luffy",
+    "title": "Captain",
+    "bounty": 300000000,
+    "attack": "jet pistol",
+    "bestattack": "Jet gatling"
+  },
+  {
+    "id": 2,
+    "name": "Roronova zoro",
+    "title": "Right hand / swordsman",
+    "bounty": 100000000,
+    "attack": "White tiger",
+    "bestattack": "Demon aura"
+  },
+  {
+    "id": 3,
+    "name": "Vinsmoke sanji",
+    "title": "Cook",
+    "bounty": 70000000,
+    "attack": "Moonwalk",
+    "bestattack": "Diable jambe"
+  },
+  {
+    "id": 4,
+    "name": "Ussop ",
+    "title": "Sniper",
+    "bounty": 50000000,
+    "attack": "Flamestar",
+    "bestattack": "DeathStar"
+  },
+  {
+    "id": 5,
+    "name": "Nami",
+    "title": "Navigator",
+    "bounty": 30000000,
+    "attack": "shock Tempo",
+    "bestattack": "storm tempo"
+  },
+  {
+    "id": 6,
+    "name": "Robin",
+    "title": "archeologists",
+    "bounty": 80000000,
+    "attack": "meur fleur",
+    "bestattack": "meur fleur demon black"
+  },
+  {
+    "id": 7,
+    "name": "Franky",
+    "title": "Shipwright",
+    "bounty": 30000000,
+    "attack": "super beam",
+    "bestattack": "Cola burst"
+  },
+  {
+    "id": 8,
+    "name": "Brook",
+    "title": "Musician",
+    "bounty": 30,
+    "attack": "Soul saber",
+    "bestattack": "Soul Parade"
+  },
+  {
+    "id": 9,
+    "name": "Chopper",
+    "title": "Doctor",
+    "bounty": 5,
+    "attack": "Guard Point",
+    "bestattack": "Monster Point"
+  }
+]
